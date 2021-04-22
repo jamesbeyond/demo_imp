@@ -1,6 +1,6 @@
 [submodule "example-api"]
 	path = example-api
-	url = https://github.com/bulislaw/example-api
+	url = https://github.com/bulislaw/example-api.git
 [submodule "demo"]
 	path = demo
-	url = https://gitlab.com/jamesbeyond/demo.git
+	url = https://gitlab.com/jamesbeyond/demo
