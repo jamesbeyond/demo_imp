@@ -4,3 +4,6 @@
 [submodule "demo"]
 	path = demo
 	url = https://gitlab.com/jamesbeyond/demo.git
+[submodule "gitlab_api"]
+	path = gitlab_api
+	url = https://gitlab.com/jamesbeyond/gitlab_api.git
