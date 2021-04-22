@@ -1,9 +1,6 @@
-[submodule "example-api"]
-	path = example-api
-	url = https://github.com/bulislaw/example-api.git
-[submodule "demo"]
-	path = demo
-	url = https://gitlab.com/jamesbeyond/demo.git
 [submodule "gitlab_api"]
 	path = gitlab_api
 	url = https://gitlab.com/jamesbeyond/gitlab_api.git
+[submodule "github_api"]
+	path = github_api
+	url = https://github.com/jamesbeyond/github_api.git
