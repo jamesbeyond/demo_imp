@@ -3,4 +3,4 @@
 	url = https://github.com/bulislaw/example-api.git
 [submodule "demo"]
 	path = demo
-	url = https://gitlab.com/jamesbeyond/demo
+	url = https://gitlab.com/jamesbeyond/demo.git
